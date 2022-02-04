@@ -96,9 +96,9 @@ a:hover {
   align-items: center;
   gap: 32px;
 }
+
 .main .cards .card {
   height: 300px;
-  weight: 300px;
 }
 
 .main .cards img {
@@ -107,6 +107,7 @@ a:hover {
   border-width: 3px;
   border-color: blue;
   border-style: solid;
+  border-radius: 5px;
 }
 
 /* Testimonial */
